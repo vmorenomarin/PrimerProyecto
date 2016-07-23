@@ -19,9 +19,9 @@
         android:text="@string/boton"
         android:id="@+id/button"
         android:focusable="false"
-        android:layout_marginTop="73dp"
         android:layout_below="@+id/textView1"
-        android:layout_centerHorizontal="true" />
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="76dp" />
 
     <TextView
         android:layout_width="wrap_content"
